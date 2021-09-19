@@ -11,3 +11,8 @@ local array_erase = array.erase
 local function Dispatcher()
     local listeners = {}
 end
+
+
+local function subscribe()
+    -- body
+end
